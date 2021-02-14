@@ -5,18 +5,18 @@
 > 1) Upload the photo 
 > 2) Pick one of the operations 
 * **Sobel  [Choose Horizontal or Vertical / Choose threshold between 0-1 default is 0.2]**
-![sobel filter](sobel.jpg)
+![sobel filter](sobel.PNG)
 * **Laplace[Choose alpha default is 0.2]**
-![laplace  filter](laplace.jpg)
+![laplace  filter](laplace.PNG)
 * **Salt And Pepper[Choose the percentage of pixel corruption default is 20%]**
-![Salt and Pepper](sandp.jpg)
+![Salt and Pepper](sandp.PNG)
 * **Median filter default is 3*3**
 * **Fourier :**
 *Choose the number of cycles in x direction*
 *Choose the number of cycles in y direction*
 *Choose filtration technique by pressing on notch/bandwidth button*
 *Press on mask button  a new window will open wait until the mouse shape changes then press on the middle of the picture to zoom in until you find the noisy pixels clear then press on the space bar and the mouse shape will again change you click on the two noisy pixels and the image is filtered*  
-![mask filter](mask.jpg)
+![mask filter](mask.PNG)
 ## Notes
 1. Sobel threshold is between 0-1
 2. Laplacian alpha is between 0-1
