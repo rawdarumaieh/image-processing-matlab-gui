@@ -8,9 +8,9 @@
 ![sobel filter](sobel.PNG)
 * **Laplace[Choose alpha default is 0.2]**
 ![laplace  filter](laplace.PNG)
-* **Salt And Pepper[Choose the percentage of pixel corruption default is 20%]**
-![Salt and Pepper](sandp.PNG)
+* **Salt And Pepper[Choose the percentage of pixel corruption default is 20%]**4
 * **Median filter default is 3*3**
+![Salt and Pepper](sandp.PNG)
 * **Fourier :**
 *Choose the number of cycles in x direction*
 *Choose the number of cycles in y direction*
